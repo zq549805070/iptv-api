@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-08 12:07:24,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+2026-02-08 21:17:55,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 
 📺央视频道,#genre#
 CCTV-1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
@@ -205,9 +205,9 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 吉林卫视,http://153.0.171.163:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://cssbyd.imwork.net:8082/hls/41/index.m3u8
 吉林卫视,http://36.32.174.67:60080/newlive/live/hls/40/live.m3u8
+吉林卫视,http://111.61.236.247:9081/hls/45/index.m3u8
 吉林卫视,http://49.87.154.246:85/tsfile/live/0116_1.m3u8?key=txiptv
 吉林卫视,http://58.57.40.22:9901/tsfile/live/1050_1.m3u8
-吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
 江苏卫视,http://222.169.85.8:9901/tsfile/live/0127_1.m3u8
 江苏卫视,http://60.16.0.216:5757/hls/24/index.m3u8
 江西卫视,http://153.0.171.163:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
