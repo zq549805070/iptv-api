@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-20 15:20:54,https://iptv.catvod.com/live.php?id=CCTV1&line=16
+2026-02-21 15:07:10,https://iptv.catvod.com/live.php?id=CCTV1&line=16
 
 📺央视频道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=16
@@ -64,6 +64,7 @@ CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=4
 CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=5
 CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=3
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=6
+CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=2
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=5
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12
@@ -87,6 +88,7 @@ CCTV-15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=2
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=1
+CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=5
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=6
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=1
