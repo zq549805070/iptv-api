@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-03 15:42:03,https://iptv.catvod.com/live.php?id=CCTV1&line=4
+2026-04-04 15:33:22,https://iptv.catvod.com/live.php?id=CCTV1&line=4
 
 📺央视频道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=4
@@ -13,19 +13,19 @@ CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=3
 CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=5
 CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=8
 CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
-CCTV-2,http://112.27.235.94:8000/hls/2/index.m3u8
+CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=5
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=6
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=4
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=7
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=3
-CCTV-3,http://hczn.x3322.net:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://hczn.x3322.net:9902/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4&line=6
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4&line=3
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
-CCTV-4,http://120.211.62.180:8000/hls/4/index.m3u8
+CCTV-4,http://112.27.235.94:8000/hls/4/index.m3u8
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=1
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=10
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=8
@@ -67,7 +67,7 @@ CCTV-10,https://iptv.catvod.com/live.php?id=CCTV10&line=6
 CCTV-10,https://iptv.catvod.com/live.php?id=CCTV10&line=8
 CCTV-10,https://iptv.catvod.com/live.php?id=CCTV10&line=10
 CCTV-10,https://iptv.catvod.com/live.php?id=CCTV10&line=2
-CCTV-10,http://182.150.23.74:808/hls/10/index.m3u8
+CCTV-10,http://112.27.235.94:8000/hls/11/index.m3u8
 CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=2
 CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=3
 CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=7
@@ -91,7 +91,7 @@ CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14&line=4
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14&line=6
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
-CCTV-14,http://69.30.246.194/live/cctv14.m3u8
+CCTV-14,http://112.27.235.94:8000/hls/15/index.m3u8
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15&line=4
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15&line=5
@@ -216,7 +216,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 湖北卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=2
 湖北卫视,http://107.150.60.122/live/hbwshd.m3u8
 湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
-湖北卫视,http://218.17.33.178:53290/tsfile/live/0132_1.m3u8?key=txiptv
+湖北卫视,http://112.27.235.94:8000/hls/41/index.m3u8
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=1
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=2
@@ -305,7 +305,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 辽宁卫视,https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86
 辽宁卫视,https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&line=1
 辽宁卫视,http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
-辽宁卫视,http://112.27.235.94:8000/hls/47/index.m3u8
+辽宁卫视,http://gfr.x3322.net:9901/tsfile/live/1097_1.m3u8
 内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
 内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&line=2
 内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&line=3
@@ -326,7 +326,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 山东卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&line=2
 山东卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86
 山东卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&line=5
-山东卫视,http://182.150.23.74:808/hls/23/index.m3u8
+山东卫视,http://112.27.235.94:8000/hls/34/index.m3u8
 山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&line=1
 山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&line=2
 山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86
