@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-01 16:28:25,https://iptv.catvod.com/live.php?id=CCTV1&line=6
+2026-05-02 16:03:16,https://iptv.catvod.com/live.php?id=CCTV1&line=6
 
 📺央视频道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=6
@@ -25,7 +25,7 @@ CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4&line=6
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV-4,http://120.76.248.139/live/bfgd/4200000063.m3u8
-CCTV-4,http://120.211.62.180:8000/hls/4/index.m3u8
+CCTV-4,http://112.27.235.94:8000/hls/4/index.m3u8
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=8
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=6
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=10
@@ -274,7 +274,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 河北卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&line=3
 河北卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&line=2
 河北卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&line=1
-河北卫视,http://120.211.62.180:8000/hls/19/index.m3u8
+河北卫视,http://112.27.235.94:8000/hls/39/index.m3u8
 河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=2
 河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&line=1
 河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86
