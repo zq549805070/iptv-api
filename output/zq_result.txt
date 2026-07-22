@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-21 17:06:51,http://198.204.228.26/live/cctv1hd.m3u8
+2026-07-22 17:03:53,http://198.204.228.26/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
@@ -88,7 +88,7 @@ CCTV-14,http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
 CCTV-14,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
 CCTV-14,http://204.12.221.218:8181/3m1080p/cctv14.m3u8
 CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
-CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-14,http://61.136.172.236:9901/tsfile/live/0014_1.m3u8
 CCTV-15,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
 CCTV-15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
 CCTV-15,http://198.204.228.26/live/cctv15hd.m3u8
@@ -304,7 +304,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 辽宁卫视,http://198.204.228.26/live/lnwshd.m3u8
 辽宁卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnwshd
 辽宁卫视,http://207.56.13.146:81/cdnlive/lnws.m3u8
-辽宁卫视,http://gfr.x3322.net:9901/tsfile/live/1097_1.m3u8
+辽宁卫视,http://112.27.235.94:8000/hls/47/index.m3u8
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 内蒙古卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nmgws
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=3e7340acf8869ac1c7dad1bb836dcd35&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
